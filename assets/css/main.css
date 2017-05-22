@@ -1,4 +1,50 @@
 
 body{
-	background-color: #212010;
+	background-color: #09152F;
 }
+
+/*revisar cooler adobe o paletton*/
+.caja{
+	width: 200px;
+	height: 200px;
+	background-color: #F98606;
+	position: relative;
+	left: 201px;
+}
+
+.segunda-caja{
+	width: 200px;
+	height: 200px;
+	background-color: #B0C431;	
+}
+
+.caja .segunda-caja{
+	display: inline-block;
+	font-size: 48px;
+	text-align: center;
+	color: whitesmoke;
+	line-height: bold;
+	font-style: sans-serif;
+}
+
+.caja{
+	background-color: #754090;
+	position: relative;
+}
+
+.segunda-caja{
+	background-color: #D4D134;
+}
+
+.tercera-caja{
+	background-color: #34D4B4;
+}
+
+
+
+
+
+
+
+
+
